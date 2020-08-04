@@ -32,7 +32,7 @@ AndroSpy Project aims to most powerful-stable-useful open source Android RAT.
 +Connection between Client and Server has been improvement.  
 +Added 'Name' column into the Sms and Call Log manager.  
 +Some visual changes.  
-+Added dropped Pin URL into the Location Manager
++Added dropped Pin URL into the Location Manager  
 *Note: Our trojan is terminated by Ram Cleaner in Device Maintenance. I don't know how we fix this. Also our trojan has Foreground service..
 
 # [+]Update 1.1  
